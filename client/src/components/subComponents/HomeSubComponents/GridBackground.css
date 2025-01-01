@@ -1,0 +1,7 @@
+.bg-image-container {
+    background-image: url('../../../assets/images/backg1.png'); /* Adjust path as needed */
+    background-size: cover; /* Ensures the image covers the container */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+  }
+  

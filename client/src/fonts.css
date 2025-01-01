@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter.ttc') format('truetype');
+    font-weight: 400; /* Regular weight */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter.ttc') format('truetype');
+    font-weight: 700; /* Bold weight */
+    font-style: normal;
+  }
+  
+  /* Add more @font-face rules if you have different weights or styles */
+  
